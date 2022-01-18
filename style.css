@@ -1,0 +1,20 @@
+marquee{
+    background-color: yellow;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: 30px 20px;
+    font-size: 30px;
+}
+.btn{
+    background-color:red;
+   
+
+}
+.sm{
+    background-color: rgb(111, 111, 116);
+    color: white;
+    text-align: center;
+}
